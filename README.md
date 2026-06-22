@@ -1,4 +1,5 @@
 # 📊 Sales Data Analysis
+Python-based retail sales data analysis and visualization project using Pandas, NumPy, and Matplotlib.
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
@@ -21,7 +22,15 @@ This project performs Exploratory Data Analysis (EDA) on retail sales data using
 - Matplotlib
 
 ---
+## ⭐ Project Highlights
 
+- Analyzed 9994 retail sales records
+- Generated 6 visualizations
+- Performed Exploratory Data Analysis (EDA)
+- Generated business insights
+- Analyzed discount impact on profit
+
+- 
 ## 📂 Dataset
 
 - Sample Superstore Dataset
@@ -128,18 +137,33 @@ SALES DATA ANALYSIS
 
 ---
 
-## ▶️ Run Project
+## ▶️ Run the Project
+
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
+### Run the Program
+
+```bash
 python sales_analysis.py
 ```
 
+## 🚀 Future Enhancements
+
+- Build a Streamlit dashboard
+- Add sales forecasting models
+- Create Power BI dashboards
+- Implement machine learning models
+
 ---
+
+
 
 ## 👨‍💻 Author
 
 **Anshika Tyagi**
 
-BCA Student | Python | Data Analytics | Machine Learning
+BCA Student | Python Developer | Data Analytics | Machine Learning
